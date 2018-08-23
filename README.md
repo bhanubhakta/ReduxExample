@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxExample
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git@github.com:bhanubhakta/ReduxExample.git
-> cd ReduxSimpleStarter
+> cd ReduxExample
 > npm install
 > npm start
 ```
